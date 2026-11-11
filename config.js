@@ -4,7 +4,7 @@ window.MERTO_SITE = {
   email: 'info@mertogaming.com',
   playUrl: '',      // Google Play bağlantısı yayınlandığında: https://play.google.com/store/apps/details?id=com.mertogaming.kidsgames
   appStoreUrl: 'https://apps.apple.com/app/id6828499518',   // Merto Gaming: Çocuk Oyunları — App Store bağlantısı yayınlandığında
-  appStoreUrl3d: ''  // Merto Gaming 3D — App Store bağlantısı yayınlandığında
+  appStoreUrl3d: 'https://apps.apple.com/app/id6828576299'  // Merto Gaming 3D — App Store'da yayında
 };
 document.addEventListener('DOMContentLoaded', function () {
   var c = window.MERTO_SITE;
